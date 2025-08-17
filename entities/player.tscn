@@ -137,6 +137,7 @@ libraries = {
 }
 
 [node name="PanelContainer" type="PanelContainer" parent="."]
+anchors_preset = -1
 offset_left = -54.0
 offset_top = -122.0
 offset_right = 53.0
